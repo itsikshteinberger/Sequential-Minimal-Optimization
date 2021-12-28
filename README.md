@@ -24,6 +24,9 @@ SMO’s computation time is dominated by SVM evaluation, hence SMO is fastest fo
 On realworld sparse data sets, SMO can be more than 1000 times faster than the chunking algorithm. <br/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/itsikshteinberger/Sequential-Minimal-Optimization/blob/main/image.png" />
+</p>
  <br/>
 
 ### References:
