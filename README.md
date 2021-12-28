@@ -23,7 +23,7 @@ Because matrix computation is avoided, SMO scales somewhere between linear and q
 SMO’s computation time is dominated by SVM evaluation, hence SMO is fastest for linear SVMs and sparse data sets. <br/> 
 On realworld sparse data sets, SMO can be more than 1000 times faster than the chunking algorithm. <br/>
 </p>
-
+<br/>
 <p align="center">
   <img src="https://github.com/itsikshteinberger/Sequential-Minimal-Optimization/blob/main/image.png" />
 </p>
